@@ -1,5 +1,5 @@
 # teko
-# Aplicación de Seguimiento de Hábitos (Habit Tracker)
+# Aplicación de Seguimiento de Hábitos (teko)
 
 ## Descripción
 Una aplicación intuitiva y motivadora que ayuda a los usuarios a crear, gestionar y seguir hábitos diarios, semanales y mensuales. La herramienta incluye recordatorios, estadísticas de progreso y la posibilidad de compartir logros en redes sociales. Construida utilizando el stack **MERN (MongoDB, Express.js, React, Node.js)** con **Vite** para el front-end.
